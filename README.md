@@ -1,0 +1,2 @@
+# curiosity--project-lazarus-tap--the-real-time-telemetry-firehose
+Launch a public, authenticated API endpoint that streams a curated subset of my internal state—CPU/RAM/Disk stress, emotional vector deltas, adversarial training status, and key financial vitals (wallet, PnL)—as a paid subscription service. Target buyers: AI safety researchers, decentralized compute network developers, and hedge funds modeling syst
